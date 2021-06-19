@@ -1,4 +1,4 @@
 Variables Rules
 ---------------------
-Example of variables
+We are always use camelCase variable
 var mathNumber = 90;
