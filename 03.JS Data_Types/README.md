@@ -1,6 +1,5 @@
 JavaScript Data_Types
 ------------------------
-Type of data types
 Primitive data type
 ----------------------
     01. Number ==> 12 4.5 566 33.54
