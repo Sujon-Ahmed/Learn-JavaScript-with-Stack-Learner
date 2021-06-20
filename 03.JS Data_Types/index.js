@@ -9,3 +9,5 @@ console.log(parseInt(nn)); // convert any type to int
 console.log(parseFloat(nn)); // convert any type to float
 console.log(Number.MAX_VALUE); // JS max value
 console.log(Number.MIN_SAFE_INTEGER); // JS min value
+console.log(1 / 0);
+console.log('abc' * 10); 
