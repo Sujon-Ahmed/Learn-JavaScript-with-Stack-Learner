@@ -19,3 +19,4 @@ var b4 = Boolean(false);
 
 console.log(b3);
 console.log(b4);
+console.log(b2);
