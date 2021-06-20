@@ -11,3 +11,8 @@ console.log(Number.MAX_VALUE); // JS max value
 console.log(Number.MIN_SAFE_INTEGER); // JS min value
 console.log(1 / 0);
 console.log('abc' * 10); 
+
+var hex = 0xff;
+console.log(hex);
+var oct = 0756;
+console.log(oct);
