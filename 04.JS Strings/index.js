@@ -20,3 +20,10 @@ var b4 = Boolean(false);
 console.log(b3);
 console.log(b4);
 console.log(b2);
+
+
+// Boolean Type
+var abc;
+var xyz = null;
+console.log(abc);
+console.log(xyz);
