@@ -7,3 +7,5 @@ console.log(nn);
 
 console.log(parseInt(nn)); // convert any type to int
 console.log(parseFloat(nn)); // convert any type to float
+console.log(Number.MAX_VALUE); // JS max value
+console.log(Number.MIN_SAFE_INTEGER); // JS min value
