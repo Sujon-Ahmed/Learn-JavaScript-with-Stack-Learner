@@ -1,5 +1,5 @@
-var name = 'Sujon Ahmed Riman';
-var age = 21;
+var name = 'Sujon Ahmed';
+var age = 22;
 
 console.log(name + ' known JavaScript');
 console.log('His age is only ' + age);
