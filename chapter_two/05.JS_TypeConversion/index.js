@@ -21,3 +21,4 @@ console.log(Boolean(undefined))
 console.log(true)
 var x = true
 console.log(x.toString())
+console.log(String(x))
