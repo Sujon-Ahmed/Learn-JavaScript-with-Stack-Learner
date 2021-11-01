@@ -39,17 +39,34 @@
 // 3 3 3
 // 4 4 4 4
 // 5 5 5 5 5
-let n = 5; // height of pattern
-let string = "";
+// let n = 5; // height of pattern
+// let string = "";
+// // External loop
+// for (let i = 1; i <= n; i++) {
+//   // Internal loop
+//   for (let j = 1; j <= i; j++) {
+//     string += i;
+//   }
+//   string += "\n";
+// }
+// console.log(string);
+
+// example-4
+// 1 2 3 4 5
+// 1 2 3 4 
+// 1 2 3 
+// 1 2 
+// 1 
+
+let n = 5;  // height of pattern
+let string = '';
 // External loop
 for (let i = 1; i <= n; i++) {
   // Internal loop
-  for (let j = 1; j <= i; j++) {
-    string += i;
+  for (let j = 1; j <= n - i + 1; j++) {
+    string += j;
   }
-  string += "\n";
+  string += '\n';
 }
 console.log(string);
-
-
 
