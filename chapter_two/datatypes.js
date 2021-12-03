@@ -69,3 +69,10 @@ var xyz = null;
 
 console.log(abc);
 console.log(xyz);
+
+// ********** Hex & Oct value ***********
+var hex = 0Xff;
+console.log(hex);
+
+var oct = 0756;
+console.log(oct);
