@@ -32,14 +32,15 @@ for (Initializer; Condition; Increment) {
 //     console.log(sum + ' + ' + i + ' = ' + (sum+i));
 //     sum+=i;
 // }
+// console.log('Result = ' + sum);
 
 // *! Home Work 1 - 10 Even Number Addition Result
 
 var sum = 0;
-
 for (var i = 2; i <= 10; i++) {
     if (i % 2 == 0) {
-        console.log(sum + ' + ' + i + ' = ' + (sum+=i));
+        console.log(sum + ' + ' + i + ' = ' + (sum+i));
         sum+=i;
     }
 }
+console.log('Result = ' + sum);
