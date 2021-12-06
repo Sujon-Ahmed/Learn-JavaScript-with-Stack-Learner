@@ -60,3 +60,7 @@ obj['b'] = 100;
 var prop = 'c';
 obj[prop] = 55;
 console.log(obj);
+
+// ******** remove object properties
+delete obj.x;
+console.log(obj);
