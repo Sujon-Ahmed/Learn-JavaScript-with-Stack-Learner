@@ -46,8 +46,17 @@ var obj = {
     c: 30
 }
 
-console.log(obj['a']);
-console.log(obj['c']);
+// console.log(obj['a']);
+// console.log(obj['c']);
 
-var show = 'b';
-console.log(obj[show]);
+// var show = 'b';
+// console.log(obj[show]);
+
+obj.a = 45;
+obj.x = 15;
+
+obj['b'] = 100;
+
+var prop = 'c';
+obj[prop] = 55;
+console.log(obj);
