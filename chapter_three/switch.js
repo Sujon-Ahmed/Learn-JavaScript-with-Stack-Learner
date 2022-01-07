@@ -2,7 +2,7 @@
 
 var date = new Date();
 
-// todo: 0-Sunday, 1-Monday, 2-Tuesday
+// todo: Find today 0-Sunday, 1-Monday, 2-Tuesday
 
 var today = date.getDay();
 

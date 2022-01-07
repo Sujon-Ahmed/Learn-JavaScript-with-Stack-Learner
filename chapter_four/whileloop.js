@@ -25,3 +25,17 @@ while (isRunning) {
         console.log('You have got ' + rand);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

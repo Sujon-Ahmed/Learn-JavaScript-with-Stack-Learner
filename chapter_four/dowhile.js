@@ -1,6 +1,6 @@
 // Do While Loop
 var isRunning = false;
-// **! If isRunning = true , Then while loop Infinity 
+// ! If isRunning = true , Then while loop Infinity 
 while (isRunning) {
     console.log('I am Running with while');
 }
@@ -8,4 +8,4 @@ while (isRunning) {
 // ** Do While Loop
 do {
     console.log('I am Running with do while');
-} while (isRunning);
+} while (isRunning); 
