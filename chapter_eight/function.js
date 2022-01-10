@@ -33,3 +33,11 @@ function sub() {
 // for (var i = 0; i < 10; i++) {
 //     functionName();
 // }
+
+// min max age calculate with function array
+function getArrayMax(array) {
+    return Math.min.apply(null, array);
+}
+var ages = [11, 54, 32, 92];
+var maxAge = getArrayMax(ages);
+console.log(maxAge);

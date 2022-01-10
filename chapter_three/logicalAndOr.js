@@ -6,4 +6,4 @@ console.log(fullName);
 
 var isOk = true;
 
-isOk && console.log('Everything is OK');
+isOk && console.log('Everything is OK'); 
