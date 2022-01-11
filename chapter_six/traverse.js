@@ -3,6 +3,7 @@
 var arr = [4, 1, 6, 8, 3, 9, 5, 2, 7];
 // console.log(arr.length);
 
+// *** update array element value
 /*
 for (var i = 0; i < arr.length; i++) {
     // console.log(arr[i]);

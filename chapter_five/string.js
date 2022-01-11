@@ -62,11 +62,12 @@ while (true) {
         length++;
     }
 }
-// console.log(length);
+console.log(length);
 
 // build in function way
 // console.log(str.length);
-console.log('Something'.length);
+// console.log('Something'.length);
+
 
 
 

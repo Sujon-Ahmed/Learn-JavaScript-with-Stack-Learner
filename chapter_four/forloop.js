@@ -49,10 +49,11 @@ console.log('Result = ' + sum); */
 
 
 // Multiplication Table
-const n = 5
+/* const n = 5
 // range
 const r = 5
 for(let i = 1; i <= r; i++) {
    const result = i * n;
    console.log(`${n} * ${i} = ${result}`)
-}
+} */
+
